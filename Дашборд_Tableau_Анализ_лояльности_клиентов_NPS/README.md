@@ -6,7 +6,7 @@ ___
 * определить текущий уровень лояльности клиентов из России по уровню NPS
 ___
 ### Ссылки на дашборд
-* https://public.tableau.com/app/profile/marina.kulepina/viz/telecomm1_16735106702810/Dashboard1
+* <a href='https://public.tableau.com/app/profile/marina.kulepina/viz/telecomm1_16735106702810/Dashboard1'> Страница 1
 * https://public.tableau.com/app/profile/marina.kulepina/viz/telecomm2/Dashboard2?publish=yes
 ___
 ### Навыки и инструменты
