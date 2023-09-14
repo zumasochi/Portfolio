@@ -7,7 +7,8 @@ ___
 ___
 ### Ссылки на дашборд
 * <a href='https://public.tableau.com/app/profile/marina.kulepina/viz/telecomm1_16735106702810/Dashboard1'> Страница 1
-* https://public.tableau.com/app/profile/marina.kulepina/viz/telecomm2/Dashboard2?publish=yes
+*<a href='https://public.tableau.com/app/profile/marina.kulepina/viz/telecomm2/Dashboard2?publish=yes'> Страница 2
+
 ___
 ### Навыки и инструменты
 * MS Power Point
